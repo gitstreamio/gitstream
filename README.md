@@ -39,3 +39,27 @@ bootstrap
 
 #### Persistierung
 ElasticSearch
+
+## TODO
+
+### Github-API
+ * Description
+ * organization
+ ** Deren Repos
+ 
+
+### Message Persistence
+ * Speichern und referenzieren mit Kurz-Ids
+ * Images auf Sebastians docker repo pushen
+ * travis CI Build
+
+### Frontend
+  * Neues Repo statt Fork (Unnötige history und Example)
+  * Anfang: Speichern und Anzeigen von Messages mit dem message-persistence-service
+  * Danach: Login und Githubanbindung
+  * Webserver im gleichen Repo (Caddy in docker-compose)
+  * Erste klare UI-Richtlinien erdenken
+
+### Allgemein
+  * Allgemeine docker-compose.yml mit allen Services + Frontend
+  * Google Cloud
